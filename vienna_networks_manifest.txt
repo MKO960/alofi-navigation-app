@@ -1,0 +1,6 @@
+Original file: vienna_networks.pkl
+Original size: 33911034 bytes
+Number of chunks: 2
+Chunk files:
+  01. vienna_networks_part_01.chunk (25165824 bytes)
+  02. vienna_networks_part_02.chunk (8745210 bytes)
